@@ -6,7 +6,6 @@ body{
 #header-nav {
   background-color: #f6b319;
   border-radius: 0;
-  border: 0;
 }
 
 .navbar-brand {
@@ -25,8 +24,10 @@ body{
 }
 
 #nav-list a {
-  color: #951C49;
+  font-weight: bold;
+  color: solid black;
   text-align: center;
+  border: 1px solid black;
 }
 
 h3{
